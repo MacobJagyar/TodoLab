@@ -1,0 +1,10 @@
+button {
+    margin-bottom: 1.5rem;
+}
+
+.removeButton {
+    border:0;
+    background-color: #ff6666;
+    margin-right: 1rem;
+    padding: .2rem;
+}
